@@ -2,7 +2,9 @@
 
 ## 1 install.sh
 wget https://git.io/vpn -O openvpn-install.sh
+
 sudo chmod +x openvpn-install.sh
+
 ./openvpn-install.sh
 ## 2 connect.sh
 sudo apt install apt-transport-https
