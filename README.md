@@ -1,4 +1,6 @@
 # VPN
+## Pre-Install
+sduo apt update
 
 ## 1 install.sh
 wget https://git.io/vpn -O openvpn-install.sh
