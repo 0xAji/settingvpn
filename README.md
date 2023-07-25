@@ -23,4 +23,6 @@ sudo apt install openvpn3
 
 openvpn3 session-start --config cobasaja.ovpn
 
-## 3 dig +short myip.opendns.com @resolver1.opendns.com
+## 3 check ip
+
+dig +short myip.opendns.com @resolver1.opendns.com
