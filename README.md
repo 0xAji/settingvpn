@@ -11,6 +11,7 @@ sudo chmod +x openvpn-install.sh
 ./openvpn-install.sh
 ## 2 connect.sh
 
+
 sudo apt update
 
 sudo apt install apt-transport-https
